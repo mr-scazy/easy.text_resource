@@ -1,0 +1,1 @@
+# easy.text_resource
