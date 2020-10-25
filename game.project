@@ -1,0 +1,14 @@
+[project]
+title = easy.text_resource
+
+[library]
+include_dirs = easy
+
+[input]
+game_binding = /example/main.input_bindingc
+
+[bootstrap]
+main_collection = /example/main.collectionc
+
+[script]
+shared_state = 0
